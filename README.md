@@ -1,2 +1,2 @@
 # Springphysics
-School project for spring physics made in Unity
+School project for custom spring physics made in Unity
