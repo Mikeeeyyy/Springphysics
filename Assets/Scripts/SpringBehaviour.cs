@@ -37,7 +37,7 @@ public class SpringBehaviour : MonoBehaviour
 
         rb.velocity = new Vector3(rb.velocity.x, rb.velocity.y + a, rb.velocity.z);
 		
-		//använder SmoothDamp för att ge mera "smoothness" till fjädern och stannar den vid det nya jämviktsläget
+		
         float deltaTime = Time.deltaTime;
         transform.position = Vector3.SmoothDamp(transform.position, rb.velocity, ref velocity, smoothTime, deltaTime);
 	}
