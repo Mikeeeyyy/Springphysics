@@ -1,2 +1,4 @@
 # Springphysics
-School project for custom spring physics made in Unity
+School project for applying Hooke's law to springs. Made in Unity.
+
+https://en.wikipedia.org/wiki/Hooke%27s_law
